@@ -5,6 +5,6 @@ Linux版Tcping工具
 ```
 yum install tcptraceroute bc -y
 cd /usr/bin
-wget https://raw.githubusercontent.com/HXHGTS/Tcping/main/tcping -O tcping
+wget https://cdn.jsdelivr.net/gh/HXHGTS/Tcping/tcping -O tcping
 chmod +x tcping
 ```
